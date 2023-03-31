@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7EdBDmGH9+ownBaUHgOMt4rD7bWZ19UstxzraBr9epg=",
+  "Source": "LaundromatAPIGateway",
+  "BasePath": "_content/LaundromatAPIGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

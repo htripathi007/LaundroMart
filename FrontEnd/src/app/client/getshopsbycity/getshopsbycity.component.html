@@ -1,0 +1,112 @@
+<body [style.margin-left]="toggle? '224px !important': '40px'" [style.margin-right]="toggle? '-3px !important': '40px'">
+
+    <div class="container-xl">
+        <div class="table-responsive">
+            <div class="table-wrapper">
+                <div class="table-title">
+
+                    <div class="row">
+                        <div class="col-sm-4"
+                            class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+                            <h2>Nearby Shops</h2>
+
+                            <div style="margin-right: 60px; font-size: 60px">
+
+                                <div>
+                                    <!-- <div class="hotbutcool" style="color:'rgb(0,0, 0)">
+                                        <div>Current city
+                                        </div>
+
+                                    </div> -->
+                                    <select #selected (change)="showShops(selected.value)" id="styling"
+                                        class="btn btn-sm btn-outline-secondary" class="btn btn-dark" >
+                                        <option selected>Select City </option>
+                                        <option *ngFor="let city of uniqueCity" [value]=city>{{city}}</option>
+                                    </select>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <!-- <table class="table table-hover" id="main-table">
+                    <thead>
+                        <tr class="tableBG">
+
+                            <th>Shop Name</th>
+                            <th>Address</th>
+                            <th>Status</th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                        <tr *ngFor="let shop of  shops">
+
+                           
+                            <td>{{shop.shopName}}</td>
+                            <td>{{shop.shopCity}} {{shop.shopArea}}</td>
+                            <td>{{shop.shopWorkingStatus}}</td>
+                            <th></th>
+
+                        </tr>
+                    </tbody>
+                </table> -->
+                <span class="master-div">
+                    <div id="price">
+                        <!--price tab-->
+
+                        <!-- end of price tab-->
+                        <!--price tab-->
+                        <div class="plan basic">
+                            <div class="plan-inner" *ngFor="let shop of  shops index as i">
+                                <div class="hot" [style.background]="shop.shopWorkingStatus && boolArray[i] &&approveStatusArray[i]? ' rgb(13,
+                                    141, 19)':'rgb(224, 35, 35)'">
+                                    <div *ngIf="shop.shopWorkingStatus && boolArray[i] &&approveStatusArray[i]  ">OPEN
+                                    </div>
+                                    <div *ngIf="!shop.shopWorkingStatus || !boolArray[i] || !approveStatusArray[i]">
+                                        CLOSED</div>
+                                </div>
+
+                                <div class="entry-title">
+                                    <h3>{{shop.shopName}}</h3>
+                                    <div class="price"><i class="bi bi-shop"></i>
+                                    </div>
+                                </div>
+                                <div class="entry-content">
+                                    <ul>
+                                        <!-- <li><strong>{{shop.shopWorkingStatus}}</strong></li> -->
+                                        <li>{{shop.shopArea}}<strong> {{shop.shopCity}}</strong></li>
+                                    </ul>
+                                </div>
+                                <button class="btn-btn-primary"
+                                    [disabled]="!shop.shopWorkingStatus ||!approveStatusArray[i]"
+                                    [style.background]="shop.shopWorkingStatus&&approveStatusArray[i]? 'rgb(16, 0, 93)':'rgb(156, 167, 197)'"
+                                    routerLink="/clientsidebar/bookingwindow" (click)="bookShop(shop)">
+                                    Book Now
+                                </button>
+                            </div>
+                        </div>
+
+                    </div>
+                </span>
+
+
+
+
+            </div>
+
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+</body>

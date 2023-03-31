@@ -1,0 +1,178 @@
+<!-- <!DOCTYPE html>
+<html lang="en">-->
+
+
+
+
+
+<!-- <link rel="stylesheet" href="style.css" /> -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+<link href="https://use.fontawesome.com/releases/v5.0.1/css/all.css" rel="stylesheet" />
+
+
+<body [style.margin-left]="toggle? '224px !important': '40px'" [style.margin-right]="toggle? '-3px !important': '40px'">
+
+
+  <!-- <button class="btn btn-primary move margin-auto" routerLink="/adminsidebar/addreservationtype">Add Reservation</button> -->
+
+
+  <div class="container-xl">
+    <div class="table-responsive">
+      <div class="table-wrapper">
+        <div class="table-title">
+
+          <div class="row">
+            <div class="col-sm-4">
+
+              
+              <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom" style="width:1050px">
+              <h1 class="h2">Booking Types</h1>
+              <div class="btn-toolbar mb-2 mb-md-0">
+
+                  <button type="button" class="btn btn-sm btn-outline-secondary" class="btn btn-dark"
+                  routerLink="/adminsidebar/addreservationtype" style="margin-left: 200px;">
+                      <!-- <span data-feather="calendar" class="align-text-bottom"></span> -->
+                      Add Reservation
+                  </button>
+              </div>
+          </div>
+
+
+            </div>
+          </div>
+
+        </div>
+        <div class="table-responsive">
+          <table class="table table-striped table-sm">
+            <thead>
+              <tr class="tableBG">
+
+                <th>Reservation type</th>
+                <th>Machine Cycle Time</th>
+                <th>Charges</th>
+                <th>Action</th>
+              </tr>
+            </thead>
+            <tbody>
+
+              <tr
+                *ngFor="let reser of  reservation | paginate:{itemsPerPage: tableSize,currentPage:page,totalItems:count};let i=index">
+
+                <!-- <td>{{required}}</td> -->
+                <td>{{reser.reservationType}}</td>
+                <td>{{reser.machineCycleTime}} mins</td>
+                <td>{{reser.charges}}</td>
+
+                <td>
+                  <a class="settings" title="Edit" data-bs-toggle="modal" data-bs-target="#updateModal"
+                    (click)="updateid(reser)"><i class="fas fa-pencil-alt" style="font-size: 18px"></i></a>&nbsp;&nbsp;
+                  <a class="delete" title="Delete" data-toggle="tooltip"
+                    (click)="deleteone(reser.reservationId ?? 0)"><i class="fas fa-trash-alt"
+                      style="font-size: 18px; color:#FF0000"></i></a>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="modal" id="updateModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
+          aria-labelledby="staticBackdropLabel" aria-hidden="true">
+          <div class="modal-dialog">
+            <form>
+              <div class="modal-content">
+
+
+                <div class="modal-header">
+                  <h4 class="modal-title">Edit {{reservationElement.reservationType}}'s Details</h4>
+
+                </div>
+
+
+                <div class="modal-body">
+                  <div class="modal-row">
+                    <div class="col-12" [class.has-error]="reservationType.invalid && reservationType.touched"
+                      [class.has-success]="reservationType.valid">
+                      <label for="inputAddress" class="form-label">ReservationType</label>
+                      <input type="text" class="form-control" id="inputAddress" placeholder="ReservationType"
+                        name="reservationType" [(ngModel)]="reservationElement.reservationType"
+                        #reservationType="ngModel" pattern="^([A-Za-z]+[,.]?[ ]?|[A-Za-z]+['-]?)+$" required />
+                    </div>
+                    <span class="text-danger"
+                      *ngIf="reservationType.touched && reservationType.errors?.['pattern']">Please Enter a Valid
+                      ReservationType</span>
+                    <span class="text-danger"
+                      *ngIf="reservationType.errors?.['required']&&reservationType.touched">ReservationType is
+                      required</span>
+                  </div>
+                  <div class="modal-row">
+                    <div class="col-12" [class.has-error]="machineCycleTime.invalid && machineCycleTime.touched"
+                      [class.has-success]="machineCycleTime.valid">
+                      <label for="inputAddress" class="form-label">MachineCycleTime</label>
+                      <input type="number" class="form-control" id="inputAddress" placeholder="MachineCycleTime"
+                        name="machineCycleTime" [(ngModel)]="reservationElement.machineCycleTime"
+                        #machineCycleTime="ngModel" [disabled]="true" required />
+                    </div>
+                    <span class="text-danger"
+                      *ngIf="machineCycleTime.touched && machineCycleTime.errors?.['pattern']">Please Enter Correct
+                      MachineCycletime</span>
+                    <span class="text-danger"
+                      *ngIf="machineCycleTime.errors?.['required']&&machineCycleTime.touched">MachineCycletime is
+                      required</span>
+                  </div>
+
+                  <div class="modal-row">
+                    <div class="col-12" [class.has-error]="charges.invalid && charges.touched"
+                      [class.has-success]="charges.valid">
+
+                      <label for="inputAddress" class="form-label">Charges</label>
+                      <input type="number" class="form-control" id="inputAddress" placeholder="Charges" name="charges"
+                        [(ngModel)]="reservationElement.charges" #charges="ngModel" required />
+                    </div>
+
+                    <span class="text-danger" *ngIf="charges.touched && charges.errors?.['pattern']">Please Enter a
+                      Valid Charge</span>
+                    <span class="text-danger" *ngIf="charges.errors?.['required']&& charges.touched">Charges is
+                      required</span>
+                  </div>
+
+
+
+                </div>
+
+
+                <div class="modal-footer d-flex justify-content-center text-align-center">
+                  <button type="submit" class="modal-create-btn btn btn-primary"
+                    (click)="updateempid(reservationElement.reservationId)">Update</button>
+
+                  <button type="button" class="modal-close-btn btn btn-primary" data-bs-dismiss="modal"
+                    (click)="closereservation()">
+                    Close
+                  </button>
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+
+
+      </div>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+</body>
+
+
+<pagination-controls previousLabel="Prev" nextLabel="Next" (pageChange)="onTableDataChange($event)">
+
+
+
+</pagination-controls>

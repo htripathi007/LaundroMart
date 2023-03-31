@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+
+
+</head>
+<style>
+  div {
+    text-align: center;
+  }
+</style>
+
+<body>
+
+
+
+  <link href='https://fonts.googleapis.com/css?family=Orbitron&text=0123456789:AMP' rel='stylesheet' type='text/css'>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap" rel="stylesheet">
+
+
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap" rel="stylesheet">
+  <div id="atmmac" *ngIf="show" id="whole">
+    <div id="outer">
+      <div id="camera">
+
+      </div>
+      <div id="com">
+
+
+
+        <p id="com1"><b>Powered by Laundromart</b></p>
+      </div>
+      <div class="screen">
+
+
+
+        <div id="begin">
+
+          <p class="well1"> Let's start washing!</p>
+          <p class="well2">Enter machine name :</p>
+          <input type="text" id="input1" class="pass2" [(ngModel)]="machineName" name="machineName">
+          <p class="well3">Enter OTP :</p>
+          <input type="text" id="input2" class="pass2" maxlength="6" [(ngModel)]="userOtp" name="userOtp">
+          <button id="btne1" (click)="unlock()">Unlock machine</button>
+          <div styles="margin-top: 300px;color:red-color">
+            <p id="error" *ngIf="errorMessage != ''">{{errorMessage}}</p>
+            <p id="msg" *ngIf="message!=''">{{message}}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

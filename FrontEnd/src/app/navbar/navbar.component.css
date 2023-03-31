@@ -1,0 +1,15 @@
+nav{
+    /* position: sticky; */
+    top: 0;
+    z-index: 11111111111;
+}
+
+#navbarplaceholder ::placeholder {
+    color: white;
+}
+
+#navbar-box{
+    max-width: 1315px;
+}
+
+

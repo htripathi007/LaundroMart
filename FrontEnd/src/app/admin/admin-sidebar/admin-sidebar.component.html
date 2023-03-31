@@ -1,0 +1,89 @@
+<!-- <div id="profile">
+<header class="navbar navbar-dark sticky-top bg-dark flex-md-nowrap p-0 shadow">
+  <i class="bi bi-layout-text-sidebar-reverse" style="display: flex; align-items: center;"
+    [style.margin-right]="opened?'175px':'10px'">
+    <a class="bars" title="sidebar" data-toggle="tooltip" style="cursor: pointer;">
+      <i class="bi bi-list" style="font-size: 35px; color: rgb(255, 255, 255);" (click)="toggleSidebar()" (click)="toggle(opened)"></i>
+    </a>
+  </i>
+  
+    
+  <div class="navbar-nav">
+    <div class="nav-item text-nowrap" style="margin-left: 7px;" id="signout-button">
+      <a class="nav-link px-3" href="#" style="font-weight: 700;" (click)="logout()">Sign out</a>
+    </div>
+  </div>
+</header>
+<ng-sidebar-container>
+  
+  <ng-sidebar [opened]="opened">
+    
+    <div class="menu" (click)="toggleSidebar()" (click)="toggle(opened)">
+      <button class="btn btn-primary btn-styling" routerLink="adminprofile" >View Profile</button>
+      <button class="btn btn-primary btn-styling" routerLink="getowner" >View Owners</button>
+      <button routerLink="getclient" class="btn btn-primary btn-styling">View Client</button>
+      <button routerLink="getreservation" class="btn btn-primary btn-styling">View Booking types</button>
+      
+      
+    </div>
+  </ng-sidebar>
+  <div ng-sidebar-content>
+    
+    <router-outlet></router-outlet>
+  </div>
+</ng-sidebar-container>
+</div> -->
+
+
+<header class="navbar navbar-dark sticky-top bg-dark flex-md-nowrap p-0 shadow" style="position:sticky; top:0">
+  <i class="bi bi-layout-text-sidebar-reverse" style="display: flex; align-items: center;"
+    [style.margin-right]="opened?'175px':'10px'">
+    <a class="bars" title="sidebar" data-toggle="tooltip" style="cursor: pointer;">
+      <i class="bi bi-list" style="font-size: 35px; color: rgb(255, 255, 255);" (click)="toggleSidebar()"
+        (click)="toggle(opened)"></i>
+    </a>
+  </i>
+
+  <!-- <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-layout-text-sidebar-reverse" viewBox="0 0 16 16">
+      <path d="M12.5 3a.5.5 0 0 1 0 1h-5a.5.5 0 0 1 0-1h5zm0 3a.5.5 0 0 1 0 1h-5a.5.5 0 0 1 0-1h5zm.5 3.5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h5a.5.5 0 0 0 .5-.5zm-.5 2.5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1 0-1h5z"/>
+      <path d="M16 2a2 2 0 0 0-2-2H2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2zM4 1v14H2a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1h2zm1 0h9a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1H5V1z"/>
+    </svg> -->
+  <!-- <a class="navbar-brand col-md-3 col-lg-2 me-0 px-3 fs-6" (click)="toggleSidebar()">Owner Name</a> -->
+
+
+  <!-- <button class="navbar-toggler position-absolute d-md-none collapsed" type="button" data-bs-toggle="collapse"
+      data-bs-target="#sidebarMenu" aria-controls="sidebarMenu" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button> -->
+
+  <input class="form-control form-control-dark w-100 rounded-0 border-0" type="text" placeholder="Search"
+    aria-label="Search">
+    <!-- <h1>hey</h1> -->
+  <div class="navbar-nav">
+    <div class="nav-item text-nowrap" style="margin-left: 7px;" id="signout-button">
+      <a class="nav-link px-3" href="#" style="font-weight: 700;" (click)="logout()">Sign out</a>
+    </div>
+  </div>
+</header>
+<ng-sidebar-container>
+  <!-- Sidebar -->
+  <ng-sidebar [opened]="opened">
+    
+    <!-- <button (click)="toggleSidebar()">Close Sidebar</button> -->
+    <ul class="menu">
+      <li><a routerLink="adminprofile" (click)="toggleSidebar()" (click)="toggle(opened)">Profile</a></li>
+      <li><a routerLink="getowner" (click)="toggleSidebar()" (click)="toggle(opened)">Owners List</a></li>
+      <li><a routerLink="getclient" (click)="toggleSidebar()" (click)="toggle(opened)">Client List</a></li>
+      <li><a routerLink="getreservation" (click)="toggleSidebar()" (click)="toggle(opened)">Booking Types</a></li>
+      
+    </ul>
+  </ng-sidebar>
+  <div ng-sidebar-content>
+    <!-- Page Contents -->
+    <!-- <button (click)="toggleSidebar()">
+        Open Sidebar
+      </button> -->
+    <router-outlet></router-outlet>
+  </div>
+
+</ng-sidebar-container>

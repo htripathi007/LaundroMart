@@ -1,0 +1,429 @@
+{
+  "Routes": [
+    //Reservations
+    {
+      "UpstreamPathTemplate": "/api/Booking/Reservations",
+      "UpstreamHttpMethod": [ "GET", "POST" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5210
+        }
+
+      ],
+      "DownstreamPathTemplate": "/api/Booking/Reservations"
+    },
+    {
+      "UpstreamPathTemplate": "/api/booking/reservationsbyid?id={id}",
+      "UpstreamHttpMethod": [ "GET", "DELETE" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "host": "localhost",
+          "port": 5210
+        }
+      ],
+      "DownstreamPathTemplate": "/api/booking/reservationsbyid?id={id}"
+    },
+
+    {
+      "upstreampathtemplate": "/api/Booking/Reservations?id={id}",
+      "upstreamhttpmethod": [ "PUT" ],
+
+      "downstreamscheme": "http",
+      "downstreamhostandports": [
+        {
+          "host": "localhost",
+          "port": 5210
+        }
+      ],
+      "downstreampathtemplate": "/api/Booking/Reservations?id={id}"
+    },
+    ////SlotBooking
+
+    {
+      "UpstreamPathTemplate": "/api/Booking/SlotBookingById?id={id}",
+      "UpstreamHttpMethod": [ "DELETE" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5210
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Booking/SlotBookingById?id={id}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Booking/SlotBookingByMachineId?id={id}",
+      "UpstreamHttpMethod": [ "DELETE" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5210
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Booking/SlotBookingByMachineId?id={id}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Booking/SlotBookingByShopId?id={id}",
+      "UpstreamHttpMethod": [ "DELETE" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5210
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Booking/SlotBookingByShopId?id={id}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Booking/BookingsByShopId?shopId={id}&bookingStartTime={datetime}",
+      "UpstreamHttpMethod": [ "GET" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5210
+        }
+
+      ],
+      "DownstreamPathTemplate": "/api/Booking/BookingsByShopId?shopId={id}&bookingStartTime={datetime}"
+
+    },
+    {
+      "UpstreamPathTemplate": "/api/Booking/SlotBooking",
+      "UpstreamHttpMethod": [ "GET", "POST" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5210
+        }
+
+      ],
+      "DownstreamPathTemplate": "/api/Booking/SlotBooking"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Booking/SlotBookingByUserId?id={id}",
+      "UpstreamHttpMethod": [ "GET" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5210
+        }
+
+      ],
+      "DownstreamPathTemplate": "/api/Booking/SlotBookingByUserId?id={id}"
+    },
+
+    {
+      "UpstreamPathTemplate": "/api/Booking/SlotBooking?id={id}",
+      "UpstreamHttpMethod": [ "PUT" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5210
+        }
+
+      ],
+      "DownstreamPathTemplate": "/api/Booking/SlotBooking?id={id}"
+    },
+    ////MachineSlotDetail
+    {
+      "UpstreamPathTemplate": "/api/Booking/MachineSlotDetail",
+      "UpstreamHttpMethod": [ "GET", "POST" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5210
+        }
+
+      ],
+      "DownstreamPathTemplate": "/api/Booking/MachineSlotDetail"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Booking/MachineSlotDetail?id={id}",
+      "UpstreamHttpMethod": [ "PUT" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5210
+        }
+
+      ],
+      "DownstreamPathTemplate": "/api/Booking/MachineSlotDetail?id={id}"
+    },
+
+
+
+    {
+      "UpstreamPathTemplate": "/api/Booking/MachineSlotDetailById?id={id}",
+      "UpstreamHttpMethod": [ "GET", "DELETE" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5210
+        }
+
+      ],
+      "DownstreamPathTemplate": "/api/Booking/MachineSlotDetailById?id={id}"
+    },
+
+    //User
+    {
+      "UpstreamPathTemplate": "/api/User/UserPh?phoneNo={phoneNo}",
+      "UpstreamHttpMethod": [ "GET" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5287
+        }
+
+      ],
+      "DownstreamPathTemplate": "/api/User/UserPh?phoneNo={phoneNo}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/User/Validate",
+      "UpstreamHttpMethod": [ "GET" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5287
+        }
+
+      ],
+      "DownstreamPathTemplate": "/api/User/Validate"
+    },
+    {
+      "UpstreamPathTemplate": "/api/User/Register",
+      "UpstreamHttpMethod": [ "POST" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5287
+        }
+
+      ],
+      "DownstreamPathTemplate": "/api/User/Register"
+    },
+    {
+      "UpstreamPathTemplate": "/api/User",
+      "UpstreamHttpMethod": [ "GET" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5287
+        }
+
+      ],
+      "DownstreamPathTemplate": "/api/User"
+    },
+    {
+      "UpstreamPathTemplate": "/api/User/UserId?uid={uid}",
+      "UpstreamHttpMethod": [ "DELETE", "GET", "PUT" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5287
+        }
+
+      ],
+      "DownstreamPathTemplate": "/api/User/UserId?uid={uid}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/User/UserRole?userRole={role}",
+      "UpstreamHttpMethod": [ "GET" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5287
+        }
+
+      ],
+      "DownstreamPathTemplate": "/api/User/UserRole?userRole={role}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/User/Authenticate",
+      "UpstreamHttpMethod": [ "POST" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5287
+        }
+
+      ],
+      "DownstreamPathTemplate": "/api/User/Authenticate"
+    },
+    // MachineApi
+    {
+      "UpstreamPathTemplate": "/api/Machine/Machine",
+      "UpstreamHttpMethod": [ "POST", "GET" ],
+
+      "DownstreamScheme": "http",
+
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5151
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Machine/Machine"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Machine/MachineId?machineId={id}",
+      "UpstreamHttpMethod": [ "GET" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5151
+        }
+
+      ],
+      "DownstreamPathTemplate": "/api/Machine/MachineId?machineId={id}"
+    },
+
+    {
+      "UpstreamPathTemplate": "/api/Machine/Machine?id={id}",
+      "UpstreamHttpMethod": [ "PUT", "DELETE" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5151
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Machine/Machine?id={id}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Machine/MachineByShopId?id={id}",
+      "UpstreamHttpMethod": [ "GET" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5151
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Machine/MachineByShopId?id={id}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Machine/MachineByUserId?id={id}",
+      "UpstreamHttpMethod": [ "GET" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5151
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Machine/MachineByUserId?id={id}"
+    },
+
+    //ShopTable
+    {
+      "UpstreamPathTemplate": "/api/Machine/Shop",
+      "UpstreamHttpMethod": [ "GET", "POST" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5151
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Machine/Shop"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Machine/Shop?id={id}",
+      "UpstreamHttpMethod": [ "DELETE", "PUT" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5151
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Machine/Shop?id={id}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Machine/ShopByUserId?id={id}",
+      "UpstreamHttpMethod": [ "GET" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5151
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Machine/ShopByUserId?id={id}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Machine/ShopByCity?city={city}",
+      "UpstreamHttpMethod": [ "GET" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5151
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Machine/ShopByCity?city={city}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Machine/ShopId?id={id}",
+      "UpstreamHttpMethod": [ "GET" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5151
+        }
+
+      ],
+      "DownstreamPathTemplate": "/api/Machine/ShopId?id={id}"
+    }
+
+  ],
+  "GlobalConfiguration": {
+
+  }
+}

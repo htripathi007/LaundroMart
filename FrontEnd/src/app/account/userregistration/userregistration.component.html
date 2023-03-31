@@ -1,0 +1,258 @@
+<section class="vh-100 bg-image"
+  style="background-image: url('https://mdbcdn.b-cdn.net/img/Photos/new-templates/search-box/img4.webp');">
+  <div class="mask d-flex align-items-center h-100 gradient-custom-3">
+    <div class="container h-100">
+      <div class="row d-flex justify-content-center align-items-center h-100">
+        <div class="col-12 col-md-9 col-lg-7 col-xl-6">
+          <div class="card" style="border-radius: 15px;">
+            <div class="card-body p-5">
+              <h2 class="text-center mb-5">User Registeration</h2>
+
+              <form novalidate #form="ngForm" (ngSubmit)="registerUser(form)">
+
+                <div class="form-outline mb-4">
+                  <div class="offset-0 col-lg-25 control-label"
+                    [class.has-error]="firstName.invalid && (firstName.touched || firstName.dirty)"
+                    [class.has-success]="firstName.valid">
+                    <input type="text" id="form3Example1cg" class="form-control form-control-lg"
+                      placeholder="First name" name="firstName" [(ngModel)]="user.userFirstName" #firstName="ngModel"
+                      required pattern="^([A-Za-z]+[,.]?|[A-Za-z]+['-]?)+$" />
+                  </div>
+                  <span class="help-block text-danger"
+                    *ngIf="firstName.errors?.['required'] && (firstName.touched || firstName.dirty)">First Name is
+                    required!</span>
+                  <span class="text-danger"
+                    *ngIf="(firstName.touched || firstName.dirty) && firstName.errors?.['pattern']">First Name
+                    only accepts alphabets!</span>
+                </div>
+
+                <div class="form-outline mb-4">
+                  <div class="offset-0 col-lg-25 control-label"
+                    [class.has-error]="lastName.invalid && (lastName.touched || lastName.dirty)"
+                    [class.has-success]="lastName.valid">
+                    <input class="form-control form-control-lg" type="text" id="form3Example1cg1"
+                      placeholder="Last name" name="lastName" [(ngModel)]="user.userLastName" #lastName="ngModel"
+                      required pattern="^([A-Za-z]+[,.]?[ ]?|[A-Za-z]+['-]?)+$" />
+                  </div>
+
+                  <span class="help-block text-danger"
+                    *ngIf="lastName.errors?.['required'] && (lastName.touched || lastName.dirty)">Last Name is
+                    required!</span>
+                  <span class="text-danger"
+                    *ngIf="(lastName.touched || lastName.dirty) && lastName.errors?.['pattern']">Last Name only
+                    accepts alphabets!</span>
+                </div>
+                <div class="form-outline mb-4">
+                  <div class="offset-0 col-lg-25 control-label"
+                    [class.has-error]="email.invalid && (email.touched || email.dirty)"
+                    [class.has-success]="email.valid">
+                    <input class="form-control form-control-lg" id="form3Example3cg" type="text" placeholder="Email"
+                      name="email" [(ngModel)]="user.userEmail" #email="ngModel" (ngModelChange)="userEmailCheck(form)" required
+                      pattern="^[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" />
+                  </div>
+                  <span class="help-block text-danger"
+                    *ngIf="email.errors?.['required'] && (email.touched || email.dirty)">Email is required!</span>
+                  <span class="text-danger" *ngIf="email.touched && email.errors?.['pattern']">Please enter valid Email
+                    Id!</span>
+                    <span class="text-danger" *ngIf="duplicateEmail">This Email already exists!</span>
+                </div>
+
+                <div class="form-outline mb-4">
+                  <div class="offset-0 col-lg-25 control-label"
+                    [class.has-error]="contact.invalid && (contact.touched || contact.dirty)"
+                    [class.has-success]="contact.valid">
+                    <input class="form-control form-control-lg" type="text" placeholder="Contact number" name="contact"
+                      [(ngModel)]="user.userPhoneNumber" #contact="ngModel" (ngModelChange)="userPhoneNoCheck(form)" required
+                      pattern="^((\\+91-?)|0)?[0-9]{10}$" />
+                  </div>
+
+                  <span class="help-block text-danger"
+                    *ngIf="contact.errors?.['required'] && (contact.touched || contact.dirty)">Contact number is
+                    required!</span>
+                  <span class="text-danger"
+                    *ngIf="(contact.touched || contact.dirty) && contact.errors?.['pattern']">Please enter valid Contact
+                    number!</span>
+                    <span class="text-danger" *ngIf="duplicateUserPhoneNumber">This Contact number already exists!</span>
+                </div>
+
+                <div class="form-outline mb-4">
+                  <div class="offset-0 col-lg-25 control-label"
+                    [class.has-error]="password.invalid && (password.touched || password.dirty)"
+                    [class.has-success]="password.valid">
+                    <input class="form-control form-control-lg" id="form3Example4cg"
+                      [type]="changetype?'password':'text'" placeholder="Password" name="password"
+                      [(ngModel)]="user.userPassword" #password="ngModel" required />
+                    <span (click)="viewpass()" style="position: absolute;top: 448px;left: 1100px;">
+                      <!-- <i [ngClass]="visible? 'bi bi-eye-slash-fill':'bi bi-eye-fill'"></i> -->
+                    </span>
+                  </div>
+                  <span class="help-block text-danger"
+                    *ngIf="password.invalid && (password.touched || password.dirty)">Password
+                    is required!</span>
+                </div>
+
+                <div class="form-outline mb-4">
+                  <div class="offset-0 col-lg-25 control-label"
+                    [class.has-error]="confirmPassword.invalid && (confirmPassword.touched || confirmPassword.dirty)"
+                    [class.has-success]="confirmPassword.valid">
+                    <input class="form-control form-control-lg" id="form3Example4cdg" type="password"
+                      placeholder="Confirm Password" name="confirmPassword" appConfirmEqualValidator="password"
+                      [(ngModel)]="user.userConfirmPassword" #confirmPassword="ngModel"
+                      (ngModelChange)="handleConfirmPasswordChange(form)" required />
+
+                  </div>
+                  <span class="help-block text-danger"
+                    *ngIf="confirmPassword.invalid && (confirmPassword.touched || confirmPassword.dirty)">Confirm
+                    Password is
+                    required!</span>
+
+                  <span class="help-block text-danger"
+                    *ngIf="(passwordConf || passwordConf) && confirmPassword.valid">Passwords doesn't match!</span>
+                </div>
+
+                <div class="form-outline mb-4">
+                  <div class="offset-0 col-lg-25 control-label"
+                    [class.has-error]="address.invalid && (address.touched || address.dirty)"
+                    [class.has-success]="address.valid">
+                    <input class="form-control form-control-lg" type="text" id="form3Example3cg" placeholder="Address"
+                      name="lastName" [(ngModel)]="user.userAddress" #address="ngModel" required />
+                  </div>
+
+                  <span class="help-block text-danger"
+                    *ngIf="address.errors?.['required'] && (address.touched || address.dirty)">Address is
+                    required!</span>
+                  <span class="text-danger"
+                    *ngIf="(address.touched || address.dirty) && address.errors?.['pattern']">Address only
+                    accepts alphabets!</span>
+                </div>
+                <!-- 
+                <div class="form-outline mb-4">
+                <div class="offset-0 col-lg-25 control-label">
+                  <label for="inputCity" class="form-label">City</label>
+                  <input type="text" class="form-control" id="inputCity">
+                </div> -->
+                <div class="form-outline mb-4">
+                  <div class="offset-0 col-lg-25 control-label">
+                    <label for="inputState" class="form-label">State</label>
+                    <select id="inputState" class="form-select" name="state" [(ngModel)]="stateChosen"
+                      (click)="sendCode()">
+                      <option selected>Select your state</option>
+                      <option *ngFor="let state of states">{{state.name}}</option>
+                    </select>
+                  </div>
+
+                  <div class="form-outline mb-4">
+                    <div class="offset-0 col-lg-25 control-label">
+                      <label for="inputCity" class="form-label">City</label>
+                      <select id="inputCity" class="form-select" name="city" [(ngModel)]="cityChosen"
+                        (click)="changeCity()">
+                        <option selected>Select your city</option>
+                        <option *ngFor="let city of cities">{{city.name}}</option>
+                      </select>
+                    </div>
+                  </div>
+                  <div class="form-outline mb-4">
+                    <div class="offset-0 col-lg-25 control-label"
+                      [class.has-error]="pincode.invalid && (pincode.touched || pincode.dirty)"
+                      [class.has-success]="pincode.valid">
+                      <input class="form-control form-control-lg" id="form3Example5cg" placeholder="Pincode"
+                        name="Pincode" [(ngModel)]="user.userPinCode" #pincode="ngModel" required
+                        pattern="^((\\+91-?)|0)?[0-9]{6}$" />
+                    </div>
+
+                    <span class="help-block text-danger"
+                      *ngIf="pincode.errors?.['required'] && (pincode.touched || pincode.dirty)">Pincode is
+                      required!</span>
+                    <span class="text-danger"
+                      *ngIf="(pincode.touched || pincode.dirty) && pincode.errors?.['pattern']">Please enter valid
+                      Pincode!</span>
+                    <br>
+                  </div>
+                </div>
+                <!-- ll -->
+                <br>
+
+                <div class="form-check d-flex justify-content-center mb-5">
+                  <input class="form-check-input me-2" type="checkbox" value="" id="form2Example3cg" name="active" ngModel required />
+                  <label class="form-check-label" for="form2Example3g">
+                    <div data-bs-toggle="modal" data-bs-target="#createModal">
+                      I agree all statements in <a class="text-body"><u>Terms of service</u></a>
+                    </div>
+                  </label>
+                </div>
+
+                <div class="modal" id="createModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
+                  aria-labelledby="staticBackdropLabel" aria-hidden="true" style="--bs-modal-width: 790px;">
+                  <div class="modal-dialog">
+                    <div class="modal-content" style="width: 50rem; position: absolute">
+                      <div class="modal-header">
+                        <h4 class="modal-title">Terms & Conditions</h4>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                      </div>
+
+                      <div class="modal-body">
+
+                        <div class="info-list">
+
+                          <h5 style="font-family:'Times New Roman', Times, serif;">Please read the following agreement
+                            carefully. "Owner" use of any of Company's services indicates an agreement to be bound by
+                            the terms and conditions set forth below.
+                          </h5>
+                          <p>
+                          <div class="info"
+                            style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif">
+                            1. Laundry Care Providers/Partners are independent contractors of Laundry Care. Laundry Care
+                            Providers/Partners are responsible for establishing routines with respect to your service
+                            needs, such as pick-up/drop-off schedules, specific laundering instructions and personal
+                            preferences.
+                          </div>
+                          <div class="info"
+                            style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif">
+                            2. Laundry Care Providers/Partners have independent control over the means and methods of
+                            providing services as well as the products used in your laundering care.
+                          </div>
+                          <div class="info"
+                            style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif">
+                            3. Each Laundry Care Provider/Partner, however, is held to the high standards of customer
+                            service and quality performance established by Laundry Care.
+                          </div>
+                          <div class="info"
+                            style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif">
+                            4. If you ever have a compliment
+                            or concern with your service, please do not hesitate to contact Laundry Care at the contact
+                            information provided herein.
+                          </div>
+                          <div class="info"
+                            style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif">
+                            4. Both Laundry Care and your Provider/Partner value your business and care about providing
+                            excellent service to you.
+                          </div>
+
+                        </div>
+                        <div class="modal-footer d-flex justify-content-center text-align-center">
+                          <button type="button" class="btn btn-danger" data-bs-dismiss="modal">
+                            Close
+                          </button>
+                        </div>
+                      </div>
+
+                    </div>
+                  </div>
+
+
+                </div>
+
+                <div class="d-flex justify-content-center">
+                  <button type="submit" [disabled]="!form.valid || duplicateUserPhoneNumber || duplicateEmail "
+                    class="btn btn-success btn-block btn-lg gradient-custom-4 text-body">Register</button>
+                </div>
+              </form>
+              <br>
+              <a routerLink="/" class="link-primary underline-cls" styles="text-align-center" >Back to Login</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

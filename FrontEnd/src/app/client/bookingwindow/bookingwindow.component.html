@@ -1,0 +1,140 @@
+<div class="row m-md-5 m-3 " [style.margin-left]="toggle? '224px !important': '40px'"
+    [style.margin-right]="toggle? '-3px !important': '40px'">
+    <h3 class="text-center text-black mb-4 text-uppercase" style="background-color: rgb(224, 35, 35);
+    padding-top: 12px;
+    padding-bottom: 12px; color: white !important;">
+    <img src="../../../assets/1802308.png" style="width: 91px;
+    margin-right: -32px;
+    margin-bottom: -26px;
+    margin-top: -9px;">
+    <b>{{shopDetails.shopName}} </b></h3>
+    
+    <div class="col-lg-4 bg-blue py-5 px-5">
+        <h4 class="text-center text-white mb-4">Contact Details</h4>
+
+        <div class="row">
+
+            <div class=" col-lg-4 col-md-5 offset-lg-0 offset-md-2 col-4">
+                <p class="fw-bold">Location:</p>
+            </div>
+            <div class=" col-lg-8 col-md-5 col-8">
+                <p>{{shopDetails.shopArea}}, {{shopDetails.shopCity}}</p>
+            </div>
+            <div class=" col-lg-4 col-md-5 offset-lg-0 offset-md-2 col-4">
+                <p class="fw-bold">Work hours:</p>
+            </div>
+            <div class=" col-lg-8 col-md-5 col-8">
+                <p class="">{{shopDetails.shopStartTime |date:'shortTime'}} to
+                    {{shopDetails.shopEndTime|date:'shortTime'}}</p>
+            </div>
+        </div>
+        <h4 style="margin-bottom: 2px !important;
+        margin-top: 10px !important;" class="text-center text-white mb-4">Pricing Details</h4>
+        <div class="table-responsive">
+            <table class="table  table-sm">
+                <thead style="color: white; font-size: 12px; ">
+                    <tr>
+                        <th>Type of Cloth</th>
+                        <th>Price</th>
+                    </tr>
+
+                </thead>
+                <tbody style="color: white !important; font-size: 11px;">
+                    <tr *ngFor="let reservation of reservations">
+                        <td> {{reservation.reservationType}}</td>
+                        <td> {{'₹ '+reservation.charges}}</td>
+
+                    </tr>
+                </tbody>
+
+            </table>
+        </div>
+
+
+
+    </div>
+    <div class="col-lg-4 bg-red py-5 px-5">
+        <form novalidate #form="ngForm" (ngSubmit)="BookSlot(form)">
+            <h4 class="text-center text-white mb-4">Make An Appointment</h4>
+
+            <div class="column">
+                <div class="col-md-6 col-12 my-2">
+                    <!-- <input (change)="CheckBooking(booking.bookingStartTime) " type="datetime-local" [min]='dateNow' mdc-datetime-picker="" date="true" time="true" minutes="false" type="text" id="datetimenomin"
+                        placeholder="Date" show-todays-date="" min-date="date" ng-model="dateTimeNoMin"
+                        class=" md-input" #bookingStartTime="ngModel" [(ngModel)]="booking.bookingStartTime "  name="bookingStartTime" > -->
+
+                    <!-- <input mdc-datetime-picker="" date="true" time="true" minutes="false" type="text" id="datetimenomin"
+                        placeholder="Date" show-todays-date="" min-date="date" ng-model="dateTimeNoMin"
+                        class=" md-input"> -->
+
+                    <!-- <input (change)="CheckBooking(booking.bookingStartTime) " type="datetime-local" [min]='dateNow'
+                        class="form-control bg-darkred" name="bookingStartTime" placeholder="Date and Time"
+                        #bookingStartTime="ngModel" [(ngModel)]="booking.bookingStartTime " style="width: 200px;"
+                        placeholder="Choose Date abd Time"> -->
+
+                    <div class="container" style="width: 210%;">
+                        <ejs-datetimepicker placeholder="Choose your wash date and time" name="bookingStartTime"
+                            #bookingStartTime="ngModel" [(ngModel)]="bookingStartTime_" [min]='date_' [value]="date_"
+                            step="60" style="width: 350px; margin:5% auto" format="dd-MMM-yy hh:mm"
+                            (change)="CheckBooking(bookingStartTime_)">
+                        </ejs-datetimepicker>
+                    </div>
+
+
+                </div>
+                <!-- <div class="col-md-6 col-12 my-2">
+                    <input type="text" class="form-control bg-darkred" name="bookingDateTime" placeholder="Time" #bookingDateTime="ngModel" [(ngModel)]="booking.bookingDateTime ">
+                </div> -->
+                <div class="col-md-6 col-12 my-2">
+                    <label style=" width: 260px; font-size: small;">Choose type of cloth</label>
+                    <select #type name="" placeholder="Cloth Type" label="Cloth Type" id="dropDown"
+                        placeholder="Choose Date and Time" class="form-control bg-darkred shadow-none"
+                        name="reservationId" (change)="hello(type.value)" style="width: 260px;"
+                        [(ngModel)]="booking.reservationId ">
+
+
+                        <option *ngFor="let reservation of reservations" value={{reservation.reservationId}}>
+                            {{reservation.reservationType}}
+                            {{" : ₹"+ reservation.charges}}
+                        </option>
+
+                    </select>
+
+                </div>
+
+                <!-- <div class="">
+                    <textarea cols="10" rows="3" class="form-control bg-darkred shadow-none"
+                        placeholder="Message"></textarea>
+                </div> -->
+                <br>
+                <div class="my-2">
+                    <button style="width: 200px;" type="submit" class="btn w-100 shadow-none text-uppercase msg-btn">
+                        Book Now
+                    </button>
+                </div>
+                <div *ngIf="!boolArray" class="bg-danger mt-2 p-2 text-center text-white "
+                    style="background-color: rgb(180, 30, 38) !important;"
+                    [style.font]="bookingStatus?'rgb(13,141, 19)':'rgb(224, 35, 35)'">
+                    {{ msg }}
+                </div>
+                <div *ngIf="errorMessage != ''" class="bg-danger mt-2 p-2 text-center text-green"
+                    style="background-color: rgb(180, 30, 38) !important; color: rgb(16, 0, 93); font-size: x-large;"
+                    [style.font]="bookingStatus?'rgb(13,141, 19)':'rgb(224, 35, 35)'">
+                    {{ errorMessage }}
+                </div>
+
+
+            </div>
+        </form>
+    </div>
+    <div class="col-lg-4 bg-blue py-5 px-5">
+        <h4 class="text-center text-white mb-4">Maintenance Services</h4>
+        <div class="col">
+            <p>1. Wash and 100% Dry clothes in Just 1 Hour.</p>
+            <p>2. Use of clean water for washing clothes.</p>
+            <p>3. Wash clothes yourself by using our otp pin operated washing machines.</p>
+            <p>4. We give more preference for Hygienic & clean, so no mixing of clothes.</p>
+
+
+        </div>
+    </div>

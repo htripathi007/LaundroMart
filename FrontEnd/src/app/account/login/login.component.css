@@ -1,0 +1,369 @@
+.pt-5 {
+  padding-top: 0rem!important;
+}
+.offset-1 {
+  margin-left: 7.733333%;
+}
+.py-5{
+padding-top: 0px !important;
+}
+
+.py-3 {
+  padding-bottom: 0rem!important;
+}
+p {
+  margin-top: 0;
+  margin-bottom: 0rem;
+  margin-top: 22px;
+  text-align: center;
+}
+
+.footer-distributed{
+background: rgb(0, 0, 0);
+box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
+box-sizing: border-box;
+width: 100%;
+text-align: left;
+font: bold 16px sans-serif;
+padding: 55px 50px;
+}
+
+.footer-distributed .footer-left,
+.footer-distributed .footer-center,
+.footer-distributed .footer-right{
+display: inline-block;
+vertical-align: top;
+}
+
+/* Footer left */
+
+.footer-distributed .footer-left{
+width: 40%;
+}
+
+/* The company logo */
+
+.footer-distributed h3{
+color:  #ffffff;
+font: normal 36px 'Open Sans', cursive;
+margin: 0;
+}
+
+.footer-distributed h3 span{
+color:  lightseagreen;
+}
+
+/* Footer links */
+
+.footer-distributed .footer-links{
+color:  #ffffff;
+margin: 20px 0 12px;
+padding: 0;
+}
+
+.footer-distributed .footer-links a{
+display:inline-block;
+line-height: 1.8;
+font-weight:400;
+text-decoration: none;
+color:  inherit;
+}
+
+.footer-distributed .footer-company-name{
+color:  #222;
+font-size: 14px;
+font-weight: normal;
+margin: 0;
+}
+
+/* Footer Center */
+
+.footer-distributed .footer-center{
+width: 35%;
+}
+
+.footer-distributed .footer-center i{
+background-color:  #33383b;
+color: #ffffff;
+font-size: 25px;
+width: 38px;
+height: 38px;
+border-radius: 50%;
+text-align: center;
+line-height: 42px;
+margin: 10px 15px;
+vertical-align: middle;
+}
+
+.footer-distributed .footer-center i.fa-envelope{
+font-size: 17px;
+line-height: 38px;
+}
+
+.footer-distributed .footer-center p{
+display: inline-block;
+color: #ffffff;
+font-weight:400;
+vertical-align: middle;
+margin:0;
+}
+
+.footer-distributed .footer-center p span{
+display:block;
+font-weight: normal;
+font-size:14px;
+line-height:2;
+}
+
+.footer-distributed .footer-center p a{
+color:  lightseagreen;
+text-decoration: none;;
+}
+
+.footer-distributed .footer-links a:before {
+content: "|";
+font-weight:300;
+font-size: 20px;
+left: 0;
+color: #fff;
+display: inline-block;
+padding-right: 5px;
+}
+
+.footer-distributed .footer-links .link-1:before {
+content: none;
+}
+
+/* Footer Right */
+
+.footer-distributed .footer-right{
+width: 20%;
+}
+
+.footer-distributed .footer-company-about{
+line-height: 20px;
+color:  #92999f;
+font-size: 13px;
+font-weight: normal;
+margin: 0;
+}
+
+.footer-distributed .footer-company-about span{
+display: block;
+color:  #ffffff;
+font-size: 14px;
+font-weight: bold;
+margin-bottom: 20px;
+}
+
+.footer-distributed .footer-icons{
+margin-top: 25px;
+}
+
+.footer-distributed .footer-icons a{
+display: inline-block;
+width: 35px;
+height: 35px;
+cursor: pointer;
+background-color:  #33383b;
+border-radius: 2px;
+
+font-size: 20px;
+color: #ffffff;
+text-align: center;
+line-height: 35px;
+
+margin-right: 3px;
+margin-bottom: 5px;
+}
+
+/* If you don't want the footer to be responsive, remove these media queries */
+
+@media (max-width: 880px) {
+
+.footer-distributed{
+  font: bold 14px sans-serif;
+}
+
+.footer-distributed .footer-left,
+.footer-distributed .footer-center,
+.footer-distributed .footer-right{
+  display: block;
+  width: 100%;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+.footer-distributed .footer-center i{
+  margin-left: 0;
+}
+
+}
+.logo{
+height: 10vh;
+width: 10vh;
+}
+
+*,
+*:before,
+*:after{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: #080710;
+}
+.background{
+  width: 430px;
+  height: 520px;
+  position: absolute;
+  transform: translate(-50%,-50%);
+  left: 50%;
+  top: 50%;
+}
+.background .shape{
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  border-radius: 50%;
+}
+.shape:first-child{
+  background: linear-gradient(
+      #1845ad,
+      #23a2f6
+  );
+  left: -80px;
+  top: -80px;
+}
+.shape:last-child{
+  background: linear-gradient(
+      to right,
+      #ff512f,
+      #f09819
+  );
+  right: -30px;
+  bottom: -80px;
+}
+form{
+  height: 427px;
+  width: 400px;
+  background-color: rgba(255,255,255,0.13);
+  position: absolute;
+  transform: translate(-50%,-50%);
+  top: -292%;
+  left: 100%;
+  border-radius: 10px;
+  backdrop-filter: blur(10px);
+  border: 2px solid rgba(255,255,255,0.1);
+  box-shadow: 0 0 40px rgba(8,7,16,0.6);
+  padding: 50px 35px;
+}
+form *{
+  font-family: 'Poppins',sans-serif;
+  color: #28124b;
+  letter-spacing: 0.5px;
+  outline: none;
+  border: none;
+}
+form h3{
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 42px;
+  text-align: center;
+}
+
+label{
+  display: block;
+  margin-top: 30px;
+  font-size: 16px;
+  font-weight: 500;
+}
+input{
+  display: block;
+  height: 50px;
+  width: 100%;
+  background-color: rgba(255,255,255,0.40);
+  border-radius: 3px;
+  padding: 0 10px;
+  margin-top: 8px;
+  font-size: 14px;
+  font-weight: 300;
+}
+::placeholder{
+  color: #e5e5e5;
+}
+button{
+  margin-top: -10px;
+  width: 100%;
+  background-color: #ffffff;
+  color: #080710;
+  padding: 15px 0;
+  font-size: 18px;
+  font-weight: 600;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.social{
+margin-top: 30px;
+display: flex;
+}
+.social div{
+background: red;
+width: 150px;
+border-radius: 3px;
+padding: 5px 10px 10px 5px;
+background-color: rgba(255,255,255,0.27);
+color: #eaf0fb;
+text-align: center;
+}
+.social div:hover{
+background-color: rgba(255,255,255,0.47);
+}
+.social .fb{
+margin-left: 25px;
+}
+.social i{
+margin-right: 4px;
+}
+
+
+.background-radial-gradient {
+background-color: hsl(218, 41%, 15%);
+background-image: radial-gradient(650px circle at 0% 0%,
+  hsl(218, 41%, 35%) 15%,
+  hsl(218, 41%, 30%) 35%,
+  hsl(218, 41%, 20%) 75%,
+  hsl(218, 41%, 19%) 80%,
+  transparent 100%),
+radial-gradient(1250px circle at 100% 100%,
+  hsl(218, 41%, 45%) 15%,
+  hsl(218, 41%, 30%) 35%,
+  hsl(218, 41%, 20%) 75%,
+  hsl(218, 41%, 19%) 80%,
+  transparent 100%);
+}
+
+#radius-shape-1 {
+height: 220px;
+width: 220px;
+top: -60px;
+left: -130px;
+background: radial-gradient(#44006b, #ad1fff);
+overflow: hidden;
+}
+
+#radius-shape-2 {
+border-radius: 38% 62% 63% 37% / 70% 33% 67% 30%;
+bottom: -60px;
+right: -110px;
+width: 300px;
+height: 300px;
+background: radial-gradient(#44006b, #ad1fff);
+overflow: hidden;
+}
+
+.bg-glass {
+background-color: hsla(0, 0%, 100%, 0.9) !important;
+backdrop-filter: saturate(200%) blur(25px);
+}

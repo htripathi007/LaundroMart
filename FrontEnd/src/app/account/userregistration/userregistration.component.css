@@ -1,0 +1,47 @@
+.gradient-custom-3 {
+    /* fallback for old browsers */
+    background: #84fab0;
+
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgba(132, 250, 176, 0.5), rgba(143, 211, 244, 0.5));
+
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgba(132, 250, 176, 0.5), rgba(143, 211, 244, 0.5))
+}
+
+.gradient-custom-4 {
+    /* fallback for old browsers */
+    background: #84fab0;
+
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgba(132, 250, 176, 1), rgba(143, 211, 244, 1));
+
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgba(132, 250, 176, 1), rgba(143, 211, 244, 1))
+}
+
+.crossEdit {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 150px;
+}
+
+.crossEdit button {
+    margin-top: 0;
+    width: 17px;
+    height: 17px;
+    border-radius: 55px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.uploadCross {
+    display: flex;
+    height: 70px;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    align-content: flex-start;
+}

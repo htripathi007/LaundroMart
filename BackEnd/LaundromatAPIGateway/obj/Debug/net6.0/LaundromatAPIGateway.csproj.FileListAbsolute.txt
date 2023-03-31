@@ -1,0 +1,328 @@
+C:\Users\ht69440\source\repos\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ht69440\source\repos\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\appsettings.json
+C:\Users\ht69440\source\repos\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\ocelot.json
+C:\Users\ht69440\source\repos\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\LaundromatAPIGateway.exe
+C:\Users\ht69440\source\repos\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\LaundromatAPIGateway.deps.json
+C:\Users\ht69440\source\repos\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\LaundromatAPIGateway.runtimeconfig.json
+C:\Users\ht69440\source\repos\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\LaundromatAPIGateway.dll
+C:\Users\ht69440\source\repos\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\LaundromatAPIGateway.pdb
+C:\Users\ht69440\source\repos\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\ht69440\source\repos\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ht69440\source\repos\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\ht69440\source\repos\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ht69440\source\repos\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\ht69440\source\repos\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ht69440\source\repos\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ht69440\source\repos\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\ht69440\source\repos\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Ocelot.dll
+C:\Users\ht69440\source\repos\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ht69440\source\repos\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ht69440\source\repos\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ht69440\source\repos\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.csproj.AssemblyReference.cache
+C:\Users\ht69440\source\repos\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ht69440\source\repos\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.AssemblyInfoInputs.cache
+C:\Users\ht69440\source\repos\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.AssemblyInfo.cs
+C:\Users\ht69440\source\repos\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.csproj.CoreCompileInputs.cache
+C:\Users\ht69440\source\repos\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ht69440\source\repos\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ht69440\source\repos\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.LaundromatAPIGateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ht69440\source\repos\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.build.LaundromatAPIGateway.props
+C:\Users\ht69440\source\repos\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LaundromatAPIGateway.props
+C:\Users\ht69440\source\repos\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LaundromatAPIGateway.props
+C:\Users\ht69440\source\repos\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ht69440\source\repos\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ht69440\source\repos\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ht69440\source\repos\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\scopedcss\bundle\LaundromatAPIGateway.styles.css
+C:\Users\ht69440\source\repos\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.csproj.CopyComplete
+C:\Users\ht69440\source\repos\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.dll
+C:\Users\ht69440\source\repos\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\refint\LaundromatAPIGateway.dll
+C:\Users\ht69440\source\repos\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.pdb
+C:\Users\ht69440\source\repos\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.genruntimeconfig.cache
+C:\Users\ht69440\source\repos\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\ref\LaundromatAPIGateway.dll
+C:\Users\ak69459\Downloads\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ak69459\Downloads\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\appsettings.json
+C:\Users\ak69459\Downloads\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\ocelot.json
+C:\Users\ak69459\Downloads\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\LaundromatAPIGateway.exe
+C:\Users\ak69459\Downloads\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\LaundromatAPIGateway.deps.json
+C:\Users\ak69459\Downloads\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\LaundromatAPIGateway.runtimeconfig.json
+C:\Users\ak69459\Downloads\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\LaundromatAPIGateway.dll
+C:\Users\ak69459\Downloads\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\LaundromatAPIGateway.pdb
+C:\Users\ak69459\Downloads\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\ak69459\Downloads\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ak69459\Downloads\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\ak69459\Downloads\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ak69459\Downloads\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\ak69459\Downloads\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ak69459\Downloads\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ak69459\Downloads\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\ak69459\Downloads\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Ocelot.dll
+C:\Users\ak69459\Downloads\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ak69459\Downloads\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ak69459\Downloads\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ak69459\Downloads\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.csproj.AssemblyReference.cache
+C:\Users\ak69459\Downloads\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak69459\Downloads\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.AssemblyInfoInputs.cache
+C:\Users\ak69459\Downloads\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.AssemblyInfo.cs
+C:\Users\ak69459\Downloads\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.csproj.CoreCompileInputs.cache
+C:\Users\ak69459\Downloads\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ak69459\Downloads\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ak69459\Downloads\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.LaundromatAPIGateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ak69459\Downloads\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.build.LaundromatAPIGateway.props
+C:\Users\ak69459\Downloads\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LaundromatAPIGateway.props
+C:\Users\ak69459\Downloads\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LaundromatAPIGateway.props
+C:\Users\ak69459\Downloads\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ak69459\Downloads\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ak69459\Downloads\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ak69459\Downloads\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\scopedcss\bundle\LaundromatAPIGateway.styles.css
+C:\Users\ak69459\Downloads\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.csproj.CopyComplete
+C:\Users\ak69459\Downloads\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.dll
+C:\Users\ak69459\Downloads\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\refint\LaundromatAPIGateway.dll
+C:\Users\ak69459\Downloads\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.pdb
+C:\Users\ak69459\Downloads\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.genruntimeconfig.cache
+C:\Users\ak69459\Downloads\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\ref\LaundromatAPIGateway.dll
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\appsettings.json
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\ocelot.json
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\LaundromatAPIGateway.exe
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\LaundromatAPIGateway.deps.json
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\LaundromatAPIGateway.runtimeconfig.json
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\LaundromatAPIGateway.dll
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\LaundromatAPIGateway.pdb
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Ocelot.dll
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.csproj.AssemblyReference.cache
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.AssemblyInfoInputs.cache
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.AssemblyInfo.cs
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.csproj.CoreCompileInputs.cache
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.LaundromatAPIGateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.build.LaundromatAPIGateway.props
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LaundromatAPIGateway.props
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LaundromatAPIGateway.props
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\scopedcss\bundle\LaundromatAPIGateway.styles.css
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.csproj.CopyComplete
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.dll
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\refint\LaundromatAPIGateway.dll
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.pdb
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.genruntimeconfig.cache
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\ref\LaundromatAPIGateway.dll
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\appsettings.json
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\ocelot.json
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\LaundromatAPIGateway.exe
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\LaundromatAPIGateway.deps.json
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\LaundromatAPIGateway.runtimeconfig.json
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\LaundromatAPIGateway.dll
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\LaundromatAPIGateway.pdb
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Ocelot.dll
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.csproj.AssemblyReference.cache
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.AssemblyInfoInputs.cache
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.AssemblyInfo.cs
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.csproj.CoreCompileInputs.cache
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.LaundromatAPIGateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.build.LaundromatAPIGateway.props
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LaundromatAPIGateway.props
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LaundromatAPIGateway.props
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\scopedcss\bundle\LaundromatAPIGateway.styles.css
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.csproj.CopyComplete
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.dll
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\refint\LaundromatAPIGateway.dll
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.pdb
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.genruntimeconfig.cache
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\ref\LaundromatAPIGateway.dll
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\appsettings.json
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\ocelot.json
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\LaundromatAPIGateway.exe
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\LaundromatAPIGateway.deps.json
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\LaundromatAPIGateway.runtimeconfig.json
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\LaundromatAPIGateway.dll
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\LaundromatAPIGateway.pdb
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Ocelot.dll
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.csproj.AssemblyReference.cache
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.AssemblyInfoInputs.cache
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.AssemblyInfo.cs
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.csproj.CoreCompileInputs.cache
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.LaundromatAPIGateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.build.LaundromatAPIGateway.props
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LaundromatAPIGateway.props
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LaundromatAPIGateway.props
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\scopedcss\bundle\LaundromatAPIGateway.styles.css
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.csproj.CopyComplete
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.dll
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\refint\LaundromatAPIGateway.dll
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.pdb
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.genruntimeconfig.cache
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\ref\LaundromatAPIGateway.dll
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\appsettings.json
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\ocelot.json
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\LaundromatAPIGateway.exe
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\LaundromatAPIGateway.deps.json
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\LaundromatAPIGateway.runtimeconfig.json
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\LaundromatAPIGateway.dll
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\LaundromatAPIGateway.pdb
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Ocelot.dll
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.csproj.AssemblyReference.cache
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.AssemblyInfoInputs.cache
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.AssemblyInfo.cs
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.csproj.CoreCompileInputs.cache
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.LaundromatAPIGateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.build.LaundromatAPIGateway.props
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LaundromatAPIGateway.props
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LaundromatAPIGateway.props
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\scopedcss\bundle\LaundromatAPIGateway.styles.css
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.csproj.CopyComplete
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.dll
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\refint\LaundromatAPIGateway.dll
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.pdb
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.genruntimeconfig.cache
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\ref\LaundromatAPIGateway.dll
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\appsettings.json
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\ocelot.json
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\LaundromatAPIGateway.exe
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\LaundromatAPIGateway.deps.json
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\LaundromatAPIGateway.runtimeconfig.json
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\LaundromatAPIGateway.dll
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\LaundromatAPIGateway.pdb
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Ocelot.dll
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.csproj.AssemblyReference.cache
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.AssemblyInfoInputs.cache
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.AssemblyInfo.cs
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.csproj.CoreCompileInputs.cache
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.LaundromatAPIGateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.build.LaundromatAPIGateway.props
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LaundromatAPIGateway.props
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LaundromatAPIGateway.props
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\scopedcss\bundle\LaundromatAPIGateway.styles.css
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.csproj.CopyComplete
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.dll
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\refint\LaundromatAPIGateway.dll
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.pdb
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.genruntimeconfig.cache
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\ref\LaundromatAPIGateway.dll
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\appsettings.json
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\ocelot.json
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\LaundromatAPIGateway.exe
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\LaundromatAPIGateway.deps.json
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\LaundromatAPIGateway.runtimeconfig.json
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\LaundromatAPIGateway.dll
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\LaundromatAPIGateway.pdb
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Ocelot.dll
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\LaundromatAPIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.csproj.AssemblyReference.cache
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.AssemblyInfoInputs.cache
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.AssemblyInfo.cs
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.csproj.CoreCompileInputs.cache
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.LaundromatAPIGateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.build.LaundromatAPIGateway.props
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LaundromatAPIGateway.props
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LaundromatAPIGateway.props
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\scopedcss\bundle\LaundromatAPIGateway.styles.css
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.csproj.CopyComplete
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.dll
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\refint\LaundromatAPIGateway.dll
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.pdb
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\LaundromatAPIGateway.genruntimeconfig.cache
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\LaundromatAPIGateway\obj\Debug\net6.0\ref\LaundromatAPIGateway.dll

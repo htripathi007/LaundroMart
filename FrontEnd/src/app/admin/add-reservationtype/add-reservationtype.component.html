@@ -1,0 +1,86 @@
+
+
+  <body [style.margin-left]="toggle? '224px !important': '40px'"
+[style.margin-right]="toggle? '-3px !important': '40px'">
+  <div class="container "><form novalidate #form="ngForm" (ngSubmit)="AddBookingType(form)" >
+  
+  
+    <div class="wrapper">
+      <div class="container mt-5 form-right">
+        <div class="container-fluid p-2 text-heading text-center">
+          <h1>Registration of Reservations</h1>
+        </div>
+        <!-- <div>
+          <a href="" routerLink='/adminsidebar/getreservation'>Back to Home</a>
+        </div> -->
+        <br>
+
+        <div class="row">
+
+
+          <div class="row col-sm-6 mb-3">
+            <label class="form-label1">Reservation Type</label>
+            <div [class.has-error]="reservationType.invalid&&(reservationType.touched||reservationType.dirty)" [class.has-success]="reservationType.valid">
+              <input class="form-control" type="text" name="reservationType" id="exampleFormControlInput1" [(ngModel)]="reservation.reservationType" required
+                #reservationType="ngModel" placeholder="Enter Firstname" pattern="^([A-Za-z]+[,.]?[ ]?|[A-Za-z]+['-]?)+$" />
+            </div>
+
+            <span class="text-danger" *ngIf="reservationType.errors?.['required']&&(reservationType.touched||reservationType.dirty)">Reservation Type is
+              required</span>
+            <span class="text-danger" *ngIf="(reservationType.touched||reservationType.dirty) && reservationType.errors?.['pattern']">Please Enter a Valid
+              Reservation Type</span>
+
+
+          </div>
+
+          <div class="row">
+            <!-- <div class="row col-sm-6 mb-3">
+              <label class="form-label1">MachineCycle Time</label>
+              <div [class.has-error]="machineCycleTime.invalid&&(machineCycleTime.touched||machineCycleTime.dirty)" [class.has-success]="machineCycleTime.valid">
+                <input class="form-control" type="number" id="exampleFormControlInput1" name="machineCycleTime"
+                  [(ngModel)]="reservation.machineCycleTime" required #machineCycleTime="ngModel" placeholder="Enter MachineCycle Time(in mins)" />
+              </div>
+
+              <span class="text-danger" *ngIf="machineCycleTime.errors?.['required']&&(machineCycleTime.touched||machineCycleTime.dirty)">MachineCycle Time  is
+                required</span>
+              
+           </div> -->
+              
+      
+                             
+                
+                      <div class="row">
+                        <div class="row col-sm-6 mb-3">
+                          <label  class="form-label">Charges</label>
+                          <div [class.has-error]="charges.invalid&&(charges.touched||charges.dirty)"
+                            [class.has-success]="charges.valid"></div>
+                          <input type="number" class="form-control" id="exampleFormControlInput1" placeholder="Charge for this reservation type"
+                            name="location" [(ngModel)]="reservation.charges" required #charges="ngModel" />
+                        
+                      </div>
+                      <span class="text-danger" *ngIf="charges.errors?.['required']&&(charges.touched||charges.dirty)">Charges is
+                        required</span>
+                      
+                        
+
+                        
+                        
+
+                        
+
+                          <div>
+                              <button class="btn btn-sm btn-outline-secondary" class="btn btn-dark" type="submit" style="width: 80px;"
+                              >Submit</button>
+                            <!-- <button class="btn btn-primary m-1" type="submit" style="width: 80px;"
+                            routerLink='/admin'>Cancel</button> -->
+                            </div>
+                          
+        </div>
+      </div>
+    </div>
+    </div>
+  
+    </div> 
+</form>
+</div>
+</body>

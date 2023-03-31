@@ -1,0 +1,72 @@
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.csproj.AssemblyReference.cache
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.AssemblyInfoInputs.cache
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.AssemblyInfo.cs
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.csproj.CoreCompileInputs.cache
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\JwtAuthenticationManager\bin\Debug\net6.0\JwtAuthenticationManager.deps.json
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\JwtAuthenticationManager\bin\Debug\net6.0\JwtAuthenticationManager.dll
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\JwtAuthenticationManager\bin\Debug\net6.0\JwtAuthenticationManager.pdb
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.dll
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\refint\JwtAuthenticationManager.dll
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.pdb
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\LaundromatProjectAPI\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\ref\JwtAuthenticationManager.dll
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\JwtAuthenticationManager\bin\Debug\net6.0\JwtAuthenticationManager.deps.json
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\JwtAuthenticationManager\bin\Debug\net6.0\JwtAuthenticationManager.dll
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\JwtAuthenticationManager\bin\Debug\net6.0\JwtAuthenticationManager.pdb
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.csproj.AssemblyReference.cache
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.AssemblyInfoInputs.cache
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.AssemblyInfo.cs
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.csproj.CoreCompileInputs.cache
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.dll
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\refint\JwtAuthenticationManager.dll
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.pdb
+C:\Users\ht69440\Desktop\Backend_Project\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\ref\JwtAuthenticationManager.dll
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\JwtAuthenticationManager\bin\Debug\net6.0\JwtAuthenticationManager.deps.json
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\JwtAuthenticationManager\bin\Debug\net6.0\JwtAuthenticationManager.dll
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\JwtAuthenticationManager\bin\Debug\net6.0\JwtAuthenticationManager.pdb
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.csproj.AssemblyReference.cache
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.AssemblyInfoInputs.cache
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.AssemblyInfo.cs
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.csproj.CoreCompileInputs.cache
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.dll
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\refint\JwtAuthenticationManager.dll
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.pdb
+C:\Users\ak69459\Downloads\LaundromatProjectAPI (1)\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\ref\JwtAuthenticationManager.dll
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\JwtAuthenticationManager\bin\Debug\net6.0\JwtAuthenticationManager.deps.json
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\JwtAuthenticationManager\bin\Debug\net6.0\JwtAuthenticationManager.dll
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\JwtAuthenticationManager\bin\Debug\net6.0\JwtAuthenticationManager.pdb
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.csproj.AssemblyReference.cache
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.AssemblyInfoInputs.cache
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.AssemblyInfo.cs
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.csproj.CoreCompileInputs.cache
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.dll
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\refint\JwtAuthenticationManager.dll
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.pdb
+C:\Users\cs69502\Downloads\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\ref\JwtAuthenticationManager.dll
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\JwtAuthenticationManager\bin\Debug\net6.0\JwtAuthenticationManager.deps.json
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\JwtAuthenticationManager\bin\Debug\net6.0\JwtAuthenticationManager.dll
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\JwtAuthenticationManager\bin\Debug\net6.0\JwtAuthenticationManager.pdb
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.csproj.AssemblyReference.cache
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.AssemblyInfoInputs.cache
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.AssemblyInfo.cs
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.csproj.CoreCompileInputs.cache
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.dll
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\refint\JwtAuthenticationManager.dll
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.pdb
+C:\Users\cs69502\Desktop\Final Project\LaundromatProjectAPI (1) (1)\LaundromatProjectAPI (1)\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\ref\JwtAuthenticationManager.dll
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\JwtAuthenticationManager\bin\Debug\net6.0\JwtAuthenticationManager.deps.json
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\JwtAuthenticationManager\bin\Debug\net6.0\JwtAuthenticationManager.dll
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\JwtAuthenticationManager\bin\Debug\net6.0\JwtAuthenticationManager.pdb
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.csproj.AssemblyReference.cache
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.AssemblyInfoInputs.cache
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.AssemblyInfo.cs
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.csproj.CoreCompileInputs.cache
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.dll
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\refint\JwtAuthenticationManager.dll
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.pdb
+C:\Users\ht69440\Desktop\Project Finale\LaundromatProjectAPI\JwtAuthenticationManager\obj\Debug\net6.0\ref\JwtAuthenticationManager.dll
